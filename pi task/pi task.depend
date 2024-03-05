@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678944361 source:e:\pi task\main.cpp
+	<gl/gl.h>
+	<gl/freeglut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
